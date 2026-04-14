@@ -1,0 +1,28 @@
+[{
+    "TestcaseID": "Tc001",
+    "userName": "demosalesmanager",
+    "passWord":"crmsfa",
+    "companyName":"TestLeaf",
+    "FirstName":"Gautami",
+    "lastName":"VN",
+    "personalTitle":"Mrs.",
+    "ProfTitle":"Project Manager",
+    "departmentName":"IT-Academy",
+    "annualRevenue":"150K",
+    "primaryPhone":"8989898989"
+
+
+},
+{
+    "TestcaseID": "Tc002",
+    "userName": "democsr2",
+    "passWord":"crmsfa",
+    "companyName":"CTS",
+    "FirstName":"Jenett",
+    "lastName":"Stephen",
+    "personalTitle":"Mrs.",
+    "ProfTitle":"Project Manager",
+    "departmentName":"IT-AIA",
+    "annualRevenue":"200K",
+    "primaryPhone":"8888888888"
+}]
